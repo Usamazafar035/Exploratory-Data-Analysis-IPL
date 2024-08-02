@@ -1,0 +1,297 @@
+season_id,match_id,slug,title,time_of_day,date,time,status,status_description,winner_team_id,toss_winner_team_id,toss_choice,ground_id,team_1_id,team_2_id,team_1_score,team_1_scoreInfo,team_2_scoreInfo
+4162,18581,england-vs-netherlands-1st-match-group-b,"1st Match, Group B",daynight,2009-06-05,22:00:00,RESULT,Netherlands won by 4 wickets (with 0 balls remaining),15,15,2,10,1,15,163/6,,"20 ov, T:163"
+4162,18582,new-zealand-vs-scotland-2nd-match-group-d,"2nd Match, Group D",day,2009-06-06,14:30:00,RESULT,New Zealand won by 7 wickets (with 6 balls remaining),5,5,2,45,30,5,90/3,7/7 ov,"6/7 ov, T:90"
+4162,18583,australia-vs-west-indies-3rd-match-group-c,"3rd Match, Group C",day,2009-06-06,18:30:00,RESULT,West Indies won by 7 wickets (with 25 balls remaining),4,2,1,45,2,4,172/3,,"15.5/20 ov, T:170"
+4162,18584,bangladesh-vs-india-4th-match-group-a,"4th Match, Group A",night,2009-06-06,22:30:00,RESULT,India won by 25 runs,6,6,1,34,6,25,155/8,,"20 ov, T:181"
+4162,18585,scotland-vs-south-africa-5th-match-group-d,"5th Match, Group D",day,2009-06-07,18:00:00,RESULT,South Africa won by 130 runs,3,30,2,45,3,30,81,,"15.4/20 ov, T:212"
+4162,18586,england-vs-pakistan-6th-match-group-b,"6th Match, Group B",daynight,2009-06-07,22:00:00,RESULT,England won by 48 runs,1,7,2,45,1,7,137/7,,"20 ov, T:186"
+4162,18587,bangladesh-vs-ireland-7th-match-group-a,"7th Match, Group A",day,2009-06-08,18:00:00,RESULT,Ireland won by 6 wickets (with 10 balls remaining),29,29,2,34,25,29,138/4,,"18.2/20 ov, T:138"
+4162,18588,australia-vs-sri-lanka-8th-match-group-c,"8th Match, Group C",daynight,2009-06-08,22:00:00,RESULT,Sri Lanka won by 6 wickets (with 6 balls remaining),8,8,2,34,2,8,160/4,,"19/20 ov, T:160"
+4162,18589,netherlands-vs-pakistan-9th-match-group-b,"9th Match, Group B",day,2009-06-09,18:00:00,RESULT,Pakistan won by 82 runs,7,7,1,10,7,15,93,,"17.3/20 ov, T:176"
+4162,18590,new-zealand-vs-south-africa-10th-match-group-d,"10th Match, Group D",daynight,2009-06-09,22:00:00,RESULT,South Africa won by 1 run,3,5,2,10,3,5,127/5,,"20 ov, T:129"
+4162,18592,sri-lanka-vs-west-indies-11th-match-group-c,"11th Match, Group C",day,2009-06-10,18:00:00,RESULT,Sri Lanka won by 15 runs,8,4,2,34,8,4,177/5,,"20 ov, T:193"
+4162,18591,india-vs-ireland-12th-match-group-a,"12th Match, Group A",night,2009-06-10,22:50:00,RESULT,India won by 8 wickets (with 15 balls remaining),6,6,2,34,29,6,113/2,18/18 ov,"15.3/18 ov, T:113"
+4162,18593,ireland-vs-new-zealand-13th-match-group-f,"13th Match, Group F",day,2009-06-11,18:00:00,RESULT,New Zealand won by 83 runs,5,29,2,34,5,29,115,,"16.4/20 ov, T:199"
+4162,18594,england-vs-south-africa-14th-match-group-e,"14th Match, Group E",daynight,2009-06-11,22:00:00,RESULT,South Africa won by 7 wickets (with 10 balls remaining),3,1,1,34,1,3,114/3,,"18.2/20 ov, T:112"
+4162,18595,pakistan-vs-sri-lanka-15th-match-group-f,"15th Match, Group F",day,2009-06-12,18:00:00,RESULT,Sri Lanka won by 19 runs,8,8,1,10,8,7,131/9,,"20 ov, T:151"
+4162,18596,india-vs-west-indies-16th-match-group-e,"16th Match, Group E",daynight,2009-06-12,22:00:00,RESULT,West Indies won by 7 wickets (with 8 balls remaining),4,6,1,10,6,4,156/3,,"18.4/20 ov, T:154"
+4162,18597,south-africa-vs-west-indies-17th-match-group-e,"17th Match, Group E",day,2009-06-13,18:00:00,RESULT,South Africa won by 20 runs,3,4,2,45,3,4,163/9,,"20 ov, T:184"
+4162,18598,new-zealand-vs-pakistan-18th-match-group-f,"18th Match, Group F",daynight,2009-06-13,22:00:00,RESULT,Pakistan won by 6 wickets (with 41 balls remaining),7,5,1,45,5,7,100/4,,"13.1/20 ov, T:100"
+4162,18599,ireland-vs-sri-lanka-19th-match-group-f,"19th Match, Group F",day,2009-06-14,18:00:00,RESULT,Sri Lanka won by 9 runs,8,8,1,10,8,29,135/7,,"20 ov, T:145"
+4162,18600,england-vs-india-20th-match-group-e,"20th Match, Group E",daynight,2009-06-14,22:00:00,RESULT,England won by 3 runs,1,6,2,10,1,6,150/5,,"20 ov, T:154"
+4162,18602,ireland-vs-pakistan-21st-match-group-f,"21st Match, Group F",day,2009-06-15,18:00:00,RESULT,Pakistan won by 39 runs,7,7,1,45,7,29,120/9,,"20 ov, T:160"
+4162,18601,england-vs-west-indies-22nd-match-group-e,"22nd Match, Group E",daynight,2009-06-15,22:00:00,RESULT,West Indies won by 5 wickets (with 4 balls remaining) (D/L method),4,1,1,45,1,4,82/5,,"8.2/9 ov, T:80"
+4162,18603,new-zealand-vs-sri-lanka-23rd-match-group-f,"23rd Match, Group F",day,2009-06-16,18:00:00,RESULT,Sri Lanka won by 48 runs,8,8,1,34,8,5,110,,"17/20 ov, T:159"
+4162,18604,india-vs-south-africa-24th-match-group-e,"24th Match, Group E",daynight,2009-06-16,22:00:00,RESULT,South Africa won by 12 runs,3,3,1,34,3,6,118/8,,"20 ov, T:131"
+4162,18605,pakistan-vs-south-africa-1st-semi-final,1st Semi-Final,daynight,2009-06-18,22:00:00,RESULT,Pakistan won by 7 runs,7,7,1,34,7,3,142/5,,"20 ov, T:150"
+4162,18606,sri-lanka-vs-west-indies-2nd-semi-final,2nd Semi-Final,daynight,2009-06-19,22:00:00,RESULT,Sri Lanka won by 57 runs,8,4,2,45,8,4,101,,"17.4/20 ov, T:159"
+4162,18607,pakistan-vs-sri-lanka-final,Final,day,2009-06-21,19:30:00,RESULT,Pakistan won by 8 wickets (with 8 balls remaining),7,8,1,10,8,7,139/2,,"18.4/20 ov, T:139"
+5195,26474,new-zealand-vs-sri-lanka-1st-match-group-b,"1st Match, Group B",day,2010-04-30,22:30:00,RESULT,New Zealand won by 2 wickets (with 1 ball remaining),5,8,1,1986,8,5,139/8,,"19.5/20 ov, T:136"
+5195,26473,west-indies-vs-ireland-2nd-match-group-d,"2nd Match, Group D",daynight,2010-04-30,02:30:00,RESULT,West Indies won by 70 runs,4,4,1,1986,4,29,68,,"16.4/20 ov, T:139"
+5195,26475,afghanistan-vs-india-3rd-match-group-c,"3rd Match, Group C",day,2010-05-01,19:00:00,RESULT,India won by 7 wickets (with 31 balls remaining),6,6,2,1697,40,6,116/3,,"14.5/20 ov, T:116"
+5195,26476,bangladesh-vs-pakistan-4th-match-group-a,"4th Match, Group A",day,2010-05-01,23:00:00,RESULT,Pakistan won by 21 runs,7,7,1,1697,7,25,151/7,,"20 ov, T:173"
+5195,26478,india-vs-south-africa-5th-match-group-c,"5th Match, Group C",day,2010-05-02,19:00:00,RESULT,India won by 14 runs,6,3,2,1697,6,3,172/5,,"20 ov, T:187"
+5195,26479,australia-vs-pakistan-6th-match-group-a,"6th Match, Group A",day,2010-05-02,23:00:00,RESULT,Australia won by 34 runs,2,2,1,1697,2,7,157,,"20 ov, T:192"
+5195,26482,sri-lanka-vs-zimbabwe-7th-match-group-b,"7th Match, Group B",day,2010-05-03,19:00:00,RESULT,Sri Lanka won by 14 runs (D/L method),8,8,1,1986,8,9,29/1,,"5/5 ov, T:44"
+5195,26481,west-indies-vs-england-8th-match-group-d,"8th Match, Group D",day,2010-05-03,23:00:00,RESULT,West Indies won by 8 wickets (with 1 ball remaining) (D/L method),4,4,2,1986,1,4,60/2,,"5.5/6 ov, T:60"
+5195,26480,new-zealand-vs-zimbabwe-9th-match-group-b,"9th Match, Group B",day,2010-05-04,19:00:00,RESULT,New Zealand won by 7 runs (D/L method),5,5,2,1986,9,5,36/1,,"8.1/8.1 ov, T:30"
+5195,26477,england-vs-ireland-10th-match-group-d,"10th Match, Group D",day,2010-05-04,23:00:00,NO RESULT,No result,,29,2,1986,1,29,14/1,,"3.3/20 ov, T:121"
+5195,26484,australia-vs-bangladesh-11th-match-group-a,"11th Match, Group A",day,2010-05-05,22:30:00,RESULT,Australia won by 27 runs,2,2,1,199,2,25,114,,"18.4/20 ov, T:142"
+5195,26483,afghanistan-vs-south-africa-12th-match-group-c,"12th Match, Group C",daynight,2010-05-05,02:30:00,RESULT,South Africa won by 59 runs,3,40,2,199,3,40,80,,"16/20 ov, T:140"
+5195,26485,england-vs-pakistan-13th-match-group-e,"13th Match, Group E",day,2010-05-06,19:00:00,RESULT,England won by 6 wickets (with 3 balls remaining),1,1,2,199,7,1,151/4,,"19.3/20 ov, T:148"
+5195,26486,new-zealand-vs-south-africa-14th-match-group-e,"14th Match, Group E",day,2010-05-06,23:00:00,RESULT,South Africa won by 13 runs,3,3,1,199,3,5,157/7,,"20 ov, T:171"
+5195,26487,australia-vs-india-15th-match-group-f,"15th Match, Group F",day,2010-05-07,19:00:00,RESULT,Australia won by 49 runs,2,6,2,199,2,6,135,,"17.4/20 ov, T:185"
+5195,26488,west-indies-vs-sri-lanka-16th-match-group-f,"16th Match, Group F",day,2010-05-07,23:00:00,RESULT,Sri Lanka won by 57 runs,8,8,1,199,8,4,138/8,,"20 ov, T:196"
+5195,26489,new-zealand-vs-pakistan-17th-match-group-e,"17th Match, Group E",day,2010-05-08,19:00:00,RESULT,New Zealand won by 1 run,5,7,2,199,5,7,132/7,,"20 ov, T:134"
+5195,26490,england-vs-south-africa-18th-match-group-e,"18th Match, Group E",day,2010-05-08,23:00:00,RESULT,England won by 39 runs,1,1,1,199,1,3,129,,"19/20 ov, T:169"
+5195,26491,west-indies-vs-india-19th-match-group-f,"19th Match, Group F",day,2010-05-09,19:00:00,RESULT,West Indies won by 14 runs,4,6,2,199,4,6,155/9,,"20 ov, T:170"
+5195,26492,australia-vs-sri-lanka-20th-match-group-f,"20th Match, Group F",day,2010-05-09,23:30:00,RESULT,Australia won by 81 runs,2,2,1,199,2,8,87,,"16.2/20 ov, T:169"
+5195,26493,pakistan-vs-south-africa-21st-match-group-e,"21st Match, Group E",day,2010-05-10,19:00:00,RESULT,Pakistan won by 11 runs,7,7,1,1697,7,3,137/7,,"20 ov, T:149"
+5195,26494,england-vs-new-zealand-22nd-match-group-e,"22nd Match, Group E",day,2010-05-10,23:00:00,RESULT,England won by 3 wickets (with 5 balls remaining),1,5,1,1697,5,1,153/7,,"19.1/20 ov, T:150"
+5195,26495,india-vs-sri-lanka-23rd-match-group-f,"23rd Match, Group F",day,2010-05-11,22:30:00,RESULT,Sri Lanka won by 5 wickets (with 0 balls remaining),8,6,1,1697,6,8,167/5,,"20 ov, T:164"
+5195,26496,west-indies-vs-australia-24th-match-group-f,"24th Match, Group F",daynight,2010-05-11,02:30:00,RESULT,Australia won by 6 wickets (with 22 balls remaining),2,4,1,1697,4,2,109/4,,"16.2/20 ov, T:106"
+5195,26497,england-vs-sri-lanka-1st-semi-final,1st Semi-Final,day,2010-05-13,21:00:00,RESULT,England won by 7 wickets (with 24 balls remaining),1,8,1,1697,8,1,132/3,,"16/20 ov, T:129"
+5195,26498,australia-vs-pakistan-2nd-semi-final,2nd Semi-Final,day,2010-05-14,21:00:00,RESULT,Australia won by 3 wickets (with 1 ball remaining),2,2,2,1697,7,2,197/7,,"19.5/20 ov, T:192"
+5195,26499,australia-vs-england-final,Final,day,2010-05-16,21:00:00,RESULT,England won by 7 wickets (with 18 balls remaining),1,1,2,199,2,1,148/3,,"17/20 ov, T:148"
+6856,42249,sri-lanka-vs-zimbabwe-1st-match-group-c,"1st Match, Group C",night,2012-09-18,19:30:00,RESULT,Sri Lanka won by 82 runs,8,9,2,2502,8,9,100,,"17.3/20 ov, T:183"
+6856,42250,australia-vs-ireland-2nd-match-group-b,"2nd Match, Group B",daynight,2012-09-19,15:30:00,RESULT,Australia won by 7 wickets (with 29 balls remaining),2,29,1,1004,29,2,125/3,,"15.1/20 ov, T:124"
+6856,42251,afghanistan-vs-india-3rd-match-group-a,"3rd Match, Group A",night,2012-09-19,19:30:00,RESULT,India won by 23 runs,6,40,2,1004,6,40,136,,"19.3/20 ov, T:160"
+6856,42252,south-africa-vs-zimbabwe-4th-match-group-c,"4th Match, Group C",night,2012-09-20,19:30:00,RESULT,South Africa won by 10 wickets (with 44 balls remaining),3,3,2,2502,9,3,94/0,,"12.4/20 ov, T:94"
+6856,42253,bangladesh-vs-new-zealand-5th-match-group-d,"5th Match, Group D",daynight,2012-09-21,15:30:00,RESULT,New Zealand won by 59 runs,5,25,2,2503,5,25,132/8,,"20 ov, T:192"
+6856,42254,afghanistan-vs-england-6th-match-group-a,"6th Match, Group A",night,2012-09-21,19:30:00,RESULT,England won by 116 runs,1,40,2,1004,1,40,80,,"17.2/20 ov, T:197"
+6856,42255,sri-lanka-vs-south-africa-7th-match-group-c,"7th Match, Group C",daynight,2012-09-22,15:30:00,RESULT,South Africa won by 32 runs,3,8,2,2502,3,8,46/5,7/7 ov,"7/7 ov, T:79"
+6856,42256,australia-vs-west-indies-8th-match-group-b,"8th Match, Group B",night,2012-09-22,19:30:00,RESULT,Australia won by 17 runs (D/L method),2,4,1,1004,4,2,100/1,,"9.1/9.1 ov, T:84"
+6856,42257,new-zealand-vs-pakistan-9th-match-group-d,"9th Match, Group D",daynight,2012-09-23,15:30:00,RESULT,Pakistan won by 13 runs,7,7,1,2503,7,5,164/9,,"20 ov, T:178"
+6856,42258,england-vs-india-10th-match-group-a,"10th Match, Group A",night,2012-09-23,19:30:00,RESULT,India won by 90 runs,6,1,2,1004,6,1,80,,"14.4/20 ov, T:171"
+6856,42259,ireland-vs-west-indies-11th-match-group-b,"11th Match, Group B",night,2012-09-24,19:30:00,NO RESULT,No result,,4,2,1004,29,4,,19/19 ov,
+6856,42260,bangladesh-vs-pakistan-12th-match-group-d,"12th Match, Group D",night,2012-09-25,19:30:00,RESULT,Pakistan won by 8 wickets (with 8 balls remaining),7,25,1,2503,25,7,178/2,,"18.4/20 ov, T:176"
+6856,42261,sri-lanka-vs-new-zealand-13th-match-group-1,"13th Match, Group 1",daynight,2012-09-27,15:30:00,RESULT,Match tied (Sri Lanka won the one-over eliminator),,5,1,2503,5,8,174/6,,"20 ov, T:175"
+6856,42262,england-vs-west-indies-14th-match-group-1,"14th Match, Group 1",night,2012-09-27,19:30:00,RESULT,West Indies won by 15 runs,4,4,1,2503,4,1,164/4,,"20 ov, T:180"
+6856,42263,pakistan-vs-south-africa-15th-match-group-2,"15th Match, Group 2",daynight,2012-09-28,15:30:00,RESULT,Pakistan won by 2 wickets (with 2 balls remaining),7,3,1,1004,3,7,136/8,,"19.4/20 ov, T:134"
+6856,42264,australia-vs-india-16th-match-group-2,"16th Match, Group 2",night,2012-09-28,19:30:00,RESULT,Australia won by 9 wickets (with 31 balls remaining),2,6,1,1004,6,2,141/1,,"14.5/20 ov, T:141"
+6856,42265,england-vs-new-zealand-17th-match-group-1,"17th Match, Group 1",daynight,2012-09-29,15:30:00,RESULT,England won by 6 wickets (with 7 balls remaining),1,5,1,2503,5,1,149/4,,"18.5/20 ov, T:149"
+6856,42266,sri-lanka-vs-west-indies-18th-match-group-1,"18th Match, Group 1",night,2012-09-29,19:30:00,RESULT,Sri Lanka won by 9 wickets (with 28 balls remaining),8,4,1,2503,4,8,130/1,,"15.2/20 ov, T:130"
+6856,42267,australia-vs-south-africa-19th-match-group-2,"19th Match, Group 2",daynight,2012-09-30,15:30:00,RESULT,Australia won by 8 wickets (with 14 balls remaining),2,2,2,1004,3,2,147/2,,"17.4/20 ov, T:147"
+6856,42268,india-vs-pakistan-20th-match-group-2,"20th Match, Group 2",night,2012-09-30,19:30:00,RESULT,India won by 8 wickets (with 18 balls remaining),6,7,1,1004,7,6,129/2,,"17/20 ov, T:129"
+6856,42269,new-zealand-vs-west-indies-21st-match-group-1,"21st Match, Group 1",daynight,2012-10-01,15:30:00,RESULT,Match tied (West Indies won the one-over eliminator),,5,2,2503,4,5,139/7,19.3/20 ov,"20 ov, T:140"
+6856,42270,sri-lanka-vs-england-22nd-match-group-1,"22nd Match, Group 1",night,2012-10-01,19:30:00,RESULT,Sri Lanka won by 19 runs,8,1,2,2503,8,1,150/9,,"20 ov, T:170"
+6856,42271,australia-vs-pakistan-23rd-match-group-2,"23rd Match, Group 2",daynight,2012-10-02,15:30:00,RESULT,Pakistan won by 32 runs,7,2,2,1004,7,2,117/7,,"20 ov, T:150"
+6856,42272,india-vs-south-africa-24th-match-group-2,"24th Match, Group 2",night,2012-10-02,19:30:00,RESULT,India won by 1 run,6,3,2,1004,6,3,151,,"19.5/20 ov, T:153"
+6856,42273,sri-lanka-vs-pakistan-1st-semi-final,1st Semi-Final,night,2012-10-04,19:00:00,RESULT,Sri Lanka won by 16 runs,8,8,1,1004,8,7,123/7,,"20 ov, T:140"
+6856,42274,australia-vs-west-indies-2nd-semi-final,2nd Semi-Final,night,2012-10-05,19:00:00,RESULT,West Indies won by 74 runs,4,4,1,1004,4,2,131,,"16.4/20 ov, T:206"
+6856,42275,sri-lanka-vs-west-indies-final,Final,night,2012-10-07,19:00:00,RESULT,West Indies won by 36 runs,4,4,1,1004,4,8,101,,"18.4/20 ov, T:138"
+8083,56809,bangladesh-vs-afghanistan-1st-match-first-round-group-a,"1st Match, First Round Group A",daynight,2014-03-16,15:00:00,RESULT,Bangladesh won by 9 wickets (with 48 balls remaining),25,25,2,2025,40,25,78/1,,"12/20 ov, T:73"
+8083,56811,hong-kong-vs-nepal-2nd-match-first-round-group-a,"2nd Match, First Round Group A",night,2014-03-16,19:00:00,RESULT,Nepal won by 80 runs,32,19,2,1931,32,19,69,,"17/20 ov, T:150"
+8083,56813,ireland-vs-zimbabwe-3rd-match-first-round-group-b,"3rd Match, First Round Group B",daynight,2014-03-17,15:00:00,RESULT,Ireland won by 3 wickets (with 0 balls remaining),29,29,2,1564,9,29,164/7,,"20 ov, T:164"
+8083,56815,netherlands-vs-united-arab-emirates-4th-match-first-round-group-b,"4th Match, First Round Group B",night,2014-03-17,19:00:00,RESULT,Netherlands won by 6 wickets (with 7 balls remaining),15,27,1,1564,27,15,152/4,,"18.5/20 ov, T:152"
+8083,56817,afghanistan-vs-hong-kong-5th-match-first-round-group-a,"5th Match, First Round Group A",daynight,2014-03-18,15:00:00,RESULT,Afghanistan won by 7 wickets (with 12 balls remaining),40,19,1,1931,19,40,154/3,,"18/20 ov, T:154"
+8083,56819,bangladesh-vs-nepal-6th-match-first-round-group-a,"6th Match, First Round Group A",night,2014-03-18,19:00:00,RESULT,Bangladesh won by 8 wickets (with 27 balls remaining),25,25,2,1931,32,25,132/2,,"15.3/20 ov, T:127"
+8083,56821,netherlands-vs-zimbabwe-7th-match-first-round-group-b,"7th Match, First Round Group B",daynight,2014-03-19,15:00:00,RESULT,Zimbabwe won by 5 wickets (with 0 balls remaining),9,15,1,1564,15,9,146/5,,"20 ov, T:141"
+8083,56823,ireland-vs-united-arab-emirates-8th-match-first-round-group-b,"8th Match, First Round Group B",night,2014-03-19,19:00:00,RESULT,Ireland won by 21 runs (D/L method),29,29,2,1564,27,29,103/3,,"14.2/14.2 ov, T:83"
+8083,56825,afghanistan-vs-nepal-9th-match-first-round-group-a,"9th Match, First Round Group A",daynight,2014-03-20,15:00:00,RESULT,Nepal won by 9 runs,32,40,2,1931,32,40,132/8,,"20 ov, T:142"
+8083,56827,bangladesh-vs-hong-kong-10th-match-first-round-group-a,"10th Match, First Round Group A",night,2014-03-20,19:00:00,RESULT,Hong Kong won by 2 wickets (with 2 balls remaining),19,19,2,1931,25,19,114/8,,"19.4/20 ov, T:109"
+8083,56829,united-arab-emirates-vs-zimbabwe-11th-match-first-round-group-b,"11th Match, First Round Group B",day,2014-03-21,11:00:00,RESULT,Zimbabwe won by 5 wickets (with 38 balls remaining),9,9,2,1564,27,9,118/5,,"13.4/20 ov, T:117"
+8083,56831,ireland-vs-netherlands-12th-match-first-round-group-b,"12th Match, First Round Group B",daynight,2014-03-21,15:00:00,RESULT,Netherlands won by 6 wickets (with 37 balls remaining),15,15,2,1564,29,15,193/4,,"13.5/20 ov, T:190"
+8083,56833,india-vs-pakistan-13th-match-group-2,"13th Match, Group 2",night,2014-03-21,19:00:00,RESULT,India won by 7 wickets (with 9 balls remaining),6,6,2,2025,7,6,131/3,,"18.3/20 ov, T:131"
+8083,56835,south-africa-vs-sri-lanka-14th-match-group-1,"14th Match, Group 1",daynight,2014-03-22,15:00:00,RESULT,Sri Lanka won by 5 runs,8,8,1,1931,8,3,160/8,,"20 ov, T:166"
+8083,56837,england-vs-new-zealand-15th-match-group-1,"15th Match, Group 1",night,2014-03-22,19:00:00,RESULT,New Zealand won by 9 runs (D/L method),5,5,2,1931,1,5,52/1,,"5.2/5.2 ov, T:44"
+8083,56839,australia-vs-pakistan-16th-match-group-2,"16th Match, Group 2",daynight,2014-03-23,15:00:00,RESULT,Pakistan won by 16 runs,7,2,2,2025,7,2,175,,"20 ov, T:192"
+8083,56841,india-vs-west-indies-17th-match-group-2,"17th Match, Group 2",night,2014-03-23,19:00:00,RESULT,India won by 7 wickets (with 2 balls remaining),6,6,2,2025,4,6,130/3,,"19.4/20 ov, T:130"
+8083,56843,new-zealand-vs-south-africa-18th-match-group-1,"18th Match, Group 1",daynight,2014-03-24,15:00:00,RESULT,South Africa won by 2 runs,3,5,2,1931,3,5,168/8,,"20 ov, T:171"
+8083,56845,netherlands-vs-sri-lanka-19th-match-group-1,"19th Match, Group 1",night,2014-03-24,19:00:00,RESULT,Sri Lanka won by 9 wickets (with 90 balls remaining),8,8,2,1931,15,8,40/1,,"5/20 ov, T:40"
+8083,56847,bangladesh-vs-west-indies-20th-match-group-2,"20th Match, Group 2",daynight,2014-03-25,19:00:00,RESULT,West Indies won by 73 runs,4,25,2,2025,4,25,98,,"19.1/20 ov, T:172"
+8083,56849,netherlands-vs-south-africa-21st-match-group-1,"21st Match, Group 1",daynight,2014-03-27,15:00:00,RESULT,South Africa won by 6 runs,3,15,2,1931,3,15,139,,"18.4/20 ov, T:146"
+8083,56851,england-vs-sri-lanka-22nd-match-group-1,"22nd Match, Group 1",night,2014-03-27,19:00:00,RESULT,England won by 6 wickets (with 4 balls remaining),1,1,2,1931,8,1,190/4,,"19.2/20 ov, T:190"
+8083,56853,australia-vs-west-indies-23rd-match-group-2,"23rd Match, Group 2",daynight,2014-03-28,15:00:00,RESULT,West Indies won by 6 wickets (with 2 balls remaining),4,2,1,2025,2,4,179/4,,"19.4/20 ov, T:179"
+8083,56855,bangladesh-vs-india-24th-match-group-2,"24th Match, Group 2",night,2014-03-28,19:00:00,RESULT,India won by 8 wickets (with 9 balls remaining),6,6,2,2025,25,6,141/2,,"18.3/20 ov, T:139"
+8083,56857,netherlands-vs-new-zealand-25th-match-group-1,"25th Match, Group 1",daynight,2014-03-29,15:00:00,RESULT,New Zealand won by 6 wickets (with 6 balls remaining),5,5,2,1931,15,5,152/4,,"19/20 ov, T:152"
+8083,56859,england-vs-south-africa-26th-match-group-1,"26th Match, Group 1",night,2014-03-29,19:00:00,RESULT,South Africa won by 3 runs,3,1,2,1931,3,1,193/7,,"20 ov, T:197"
+8083,56861,bangladesh-vs-pakistan-27th-match-group-2,"27th Match, Group 2",daynight,2014-03-30,15:00:00,RESULT,Pakistan won by 50 runs,7,7,1,2025,7,25,140/7,,"20 ov, T:191"
+8083,56863,australia-vs-india-28th-match-group-2,"28th Match, Group 2",night,2014-03-30,19:00:00,RESULT,India won by 73 runs,6,2,2,2025,6,2,86,,"16.2/20 ov, T:160"
+8083,56865,england-vs-netherlands-29th-match-group-1,"29th Match, Group 1",daynight,2014-03-31,15:00:00,RESULT,Netherlands won by 45 runs,15,1,2,1931,15,1,88,,"17.4/20 ov, T:134"
+8083,56867,new-zealand-vs-sri-lanka-30th-match-group-1,"30th Match, Group 1",night,2014-03-31,19:00:00,RESULT,Sri Lanka won by 59 runs,8,5,2,1931,8,5,60,,"15.3/20 ov, T:120"
+8083,56869,bangladesh-vs-australia-31st-match-group-2,"31st Match, Group 2",daynight,2014-04-01,15:00:00,RESULT,Australia won by 7 wickets (with 15 balls remaining),2,25,1,2025,25,2,158/3,,"17.3/20 ov, T:154"
+8083,56871,pakistan-vs-west-indies-32nd-match-group-2,"32nd Match, Group 2",night,2014-04-01,19:00:00,RESULT,West Indies won by 84 runs,4,4,1,2025,4,7,82,,"17.5/20 ov, T:167"
+8083,56873,sri-lanka-vs-west-indies-1st-semi-final,1st Semi-Final,night,2014-04-03,18:30:00,RESULT,Sri Lanka won by 27 runs (D/L method),8,8,1,2025,8,4,80/4,,"13.5/13.5 ov, T:108"
+8083,56875,india-vs-south-africa-2nd-semi-final,2nd Semi-Final,night,2014-04-04,18:30:00,RESULT,India won by 6 wickets (with 5 balls remaining),6,3,1,2025,3,6,176/4,,"19.1/20 ov, T:173"
+8083,56877,india-vs-sri-lanka-final,Final,night,2014-04-06,18:30:00,RESULT,Sri Lanka won by 6 wickets (with 13 balls remaining),8,8,2,2025,6,8,134/4,,"17.5/20 ov, T:131"
+10291,74931,hong-kong-vs-zimbabwe-1st-match-first-round-group-b,"1st Match, First Round Group B",daynight,2016-03-08,15:00:00,RESULT,Zimbabwe won by 14 runs,9,19,2,2399,9,19,144/6,,"20 ov, T:159"
+10291,74933,afghanistan-vs-scotland-2nd-match-first-round-group-b,"2nd Match, First Round Group B",night,2016-03-08,19:30:00,RESULT,Afghanistan won by 14 runs,40,40,1,2399,40,30,156/5,,"20 ov, T:171"
+10291,74935,bangladesh-vs-netherlands-3rd-match-first-round-group-a,"3rd Match, First Round Group A",daynight,2016-03-09,15:00:00,RESULT,Bangladesh won by 8 runs,25,15,2,1920,25,15,145/7,,"20 ov, T:154"
+10291,74937,ireland-vs-oman-4th-match-first-round-group-a,"4th Match, First Round Group A",night,2016-03-09,19:30:00,RESULT,Oman won by 2 wickets (with 2 balls remaining),37,29,1,1920,29,37,157/8,,"19.4/20 ov, T:155"
+10291,74939,scotland-vs-zimbabwe-5th-match-first-round-group-b,"5th Match, First Round Group B",daynight,2016-03-10,15:00:00,RESULT,Zimbabwe won by 11 runs,9,9,1,2399,9,30,136,,"19.4/20 ov, T:148"
+10291,74941,afghanistan-vs-hong-kong-6th-match-first-round-group-b,"6th Match, First Round Group B",night,2016-03-10,19:30:00,RESULT,Afghanistan won by 6 wickets (with 12 balls remaining),40,19,1,2399,19,40,119/4,,"18/20 ov, T:117"
+10291,74943,netherlands-vs-oman-7th-match-first-round-group-a,"7th Match, First Round Group A",daynight,2016-03-11,15:00:00,NO RESULT,No result (abandoned with a toss),,37,,1920,15,37,,,
+10291,74945,bangladesh-vs-ireland-8th-match-first-round-group-a,"8th Match, First Round Group A",night,2016-03-11,19:30:00,NO RESULT,No result,,29,2,1920,25,29,,8/12 ov,
+10291,74947,afghanistan-vs-zimbabwe-9th-match-first-round-group-b,"9th Match, First Round Group B",daynight,2016-03-12,15:00:00,RESULT,Afghanistan won by 59 runs,40,40,1,2399,40,9,127,,"19.4/20 ov, T:187"
+10291,74949,hong-kong-vs-scotland-10th-match-first-round-group-b,"10th Match, First Round Group B",night,2016-03-12,19:30:00,RESULT,Scotland won by 8 wickets (with 12 balls remaining) (DLS method),30,19,1,2399,19,30,78/2,,"8/10 ov, T:76"
+10291,74951,ireland-vs-netherlands-11th-match-first-round-group-a,"11th Match, First Round Group A",daynight,2016-03-13,15:00:00,RESULT,Netherlands won by 12 runs,15,29,2,1920,15,29,47/7,6/6 ov,"6/6 ov, T:60"
+10291,74953,bangladesh-vs-oman-12th-match-first-round-group-a,"12th Match, First Round Group A",night,2016-03-13,19:30:00,RESULT,Bangladesh won by 54 runs (DLS method),25,37,2,1920,25,37,65/9,,"12/12 ov, T:120"
+10291,74955,india-vs-new-zealand-13th-match-super-10-group-2,"13th Match, Super 10 Group 2",night,2016-03-15,19:30:00,RESULT,New Zealand won by 47 runs,5,5,1,2399,5,6,79,,"18.1/20 ov, T:127"
+10291,74959,bangladesh-vs-pakistan-14th-match-super-10-group-2,"14th Match, Super 10 Group 2",daynight,2016-03-16,15:00:00,RESULT,Pakistan won by 55 runs,7,7,1,292,7,25,146/6,,"20 ov, T:202"
+10291,74957,england-vs-west-indies-15th-match-super-10-group-1,"15th Match, Super 10 Group 1",night,2016-03-16,19:30:00,RESULT,West Indies won by 6 wickets (with 11 balls remaining),4,4,2,713,1,4,183/4,,"18.1/20 ov, T:183"
+10291,74961,afghanistan-vs-sri-lanka-16th-match-super-10-group-1,"16th Match, Super 10 Group 1",night,2016-03-17,19:30:00,RESULT,Sri Lanka won by 6 wickets (with 7 balls remaining),8,40,1,292,40,8,155/4,,"18.5/20 ov, T:154"
+10291,74963,australia-vs-new-zealand-17th-match-super-10-group-2,"17th Match, Super 10 Group 2",daynight,2016-03-18,15:00:00,RESULT,New Zealand won by 8 runs,5,5,1,1920,5,2,134/9,,"20 ov, T:143"
+10291,74965,england-vs-south-africa-18th-match-super-10-group-1,"18th Match, Super 10 Group 1",night,2016-03-18,19:30:00,RESULT,England won by 2 wickets (with 2 balls remaining),1,1,2,713,3,1,230/8,,"19.4/20 ov, T:230"
+10291,74967,india-vs-pakistan-19th-match-super-10-group-2,"19th Match, Super 10 Group 2",night,2016-03-19,19:30:00,RESULT,India won by 6 wickets (with 13 balls remaining),6,6,2,292,7,6,119/4,18/18 ov,"15.5/18 ov, T:119"
+10291,74969,afghanistan-vs-south-africa-20th-match-super-10-group-1,"20th Match, Super 10 Group 1",daynight,2016-03-20,15:00:00,RESULT,South Africa won by 37 runs,3,3,1,713,3,40,172,,"20 ov, T:210"
+10291,74971,sri-lanka-vs-west-indies-21st-match-super-10-group-1,"21st Match, Super 10 Group 1",night,2016-03-20,19:30:00,RESULT,West Indies won by 7 wickets (with 10 balls remaining),4,4,2,683,8,4,127/3,,"18.2/20 ov, T:123"
+10291,74973,australia-vs-bangladesh-22nd-match-super-10-group-2,"22nd Match, Super 10 Group 2",night,2016-03-21,19:30:00,RESULT,Australia won by 3 wickets (with 9 balls remaining),2,2,2,683,25,2,157/7,,"18.3/20 ov, T:157"
+10291,74975,new-zealand-vs-pakistan-23rd-match-super-10-group-2,"23rd Match, Super 10 Group 2",night,2016-03-22,19:30:00,RESULT,New Zealand won by 22 runs,5,5,1,1015,5,7,158/5,,"20 ov, T:181"
+10291,74977,afghanistan-vs-england-24th-match-super-10-group-1,"24th Match, Super 10 Group 1",daynight,2016-03-23,15:00:00,RESULT,England won by 15 runs,1,1,1,333,1,40,127/9,,"20 ov, T:143"
+10291,74979,india-vs-bangladesh-25th-match-super-10-group-2,"25th Match, Super 10 Group 2",night,2016-03-23,19:30:00,RESULT,India won by 1 run,6,25,2,683,6,25,145/9,,"20 ov, T:147"
+10291,74981,australia-vs-pakistan-26th-match-super-10-group-2,"26th Match, Super 10 Group 2",daynight,2016-03-25,15:00:00,RESULT,Australia won by 21 runs,2,2,1,1015,2,7,172/8,,"20 ov, T:194"
+10291,74983,south-africa-vs-west-indies-27th-match-super-10-group-1,"27th Match, Super 10 Group 1",night,2016-03-25,19:30:00,RESULT,West Indies won by 3 wickets (with 2 balls remaining),4,4,2,2399,3,4,123/7,,"19.4/20 ov, T:123"
+10291,74985,bangladesh-vs-new-zealand-28th-match-super-10-group-2,"28th Match, Super 10 Group 2",daynight,2016-03-26,15:00:00,RESULT,New Zealand won by 75 runs,5,5,1,292,5,25,70,,"15.4/20 ov, T:146"
+10291,74987,england-vs-sri-lanka-29th-match-super-10-group-1,"29th Match, Super 10 Group 1",night,2016-03-26,19:30:00,RESULT,England won by 10 runs,1,8,2,333,1,8,161/8,,"20 ov, T:172"
+10291,74991,afghanistan-vs-west-indies-30th-match-super-10-group-1,"30th Match, Super 10 Group 1",daynight,2016-03-27,15:00:00,RESULT,Afghanistan won by 6 runs,40,4,2,2399,40,4,117/8,,"20 ov, T:124"
+10291,74989,india-vs-australia-31st-match-super-10-group-2,"31st Match, Super 10 Group 2",daynight,2016-03-27,19:30:00,RESULT,India won by 6 wickets (with 5 balls remaining),6,2,1,1015,2,6,161/4,,"19.1/20 ov, T:161"
+10291,74993,south-africa-vs-sri-lanka-32nd-match-super-10-group-1,"32nd Match, Super 10 Group 1",night,2016-03-28,19:30:00,RESULT,South Africa won by 8 wickets (with 14 balls remaining),3,3,2,333,8,3,122/2,,"17.4/20 ov, T:121"
+10291,74995,england-vs-new-zealand-1st-semi-final,1st Semi-Final,night,2016-03-30,19:00:00,RESULT,England won by 7 wickets (with 17 balls remaining),1,1,2,333,5,1,159/3,,"17.1/20 ov, T:154"
+10291,74997,india-vs-west-indies-2nd-semi-final,2nd Semi-Final,night,2016-03-31,19:00:00,RESULT,West Indies won by 7 wickets (with 2 balls remaining),4,4,2,713,6,4,196/3,,"19.4/20 ov, T:193"
+10291,74999,england-vs-west-indies-final,Final,night,2016-04-03,19:00:00,RESULT,West Indies won by 4 wickets (with 2 balls remaining),4,4,2,292,1,4,161/6,,"19.4/20 ov, T:156"
+14024,100706,oman-vs-papua-new-guinea-1st-match-first-round-group-b,"1st Match, First Round Group B",day,2021-10-17,15:30:00,RESULT,Oman won by 10 wickets (with 38 balls remaining),37,37,2,3389,20,37,131/0,,"13.4/20 ov, T:130"
+14024,100707,bangladesh-vs-scotland-2nd-match-first-round-group-b,"2nd Match, First Round Group B",night,2021-10-17,19:30:00,RESULT,Scotland won by 6 runs,30,25,2,3389,30,25,134/7,,"20 ov, T:141"
+14024,100708,ireland-vs-netherlands-3rd-match-first-round-group-a,"3rd Match, First Round Group A",day,2021-10-18,15:30:00,RESULT,Ireland won by 7 wickets (with 29 balls remaining),29,15,1,1965,15,29,107/3,,"15.1/20 ov, T:107"
+14024,100709,namibia-vs-sri-lanka-4th-match-first-round-group-a,"4th Match, First Round Group A",night,2021-10-18,19:30:00,RESULT,Sri Lanka won by 7 wickets (with 39 balls remaining),8,8,2,1965,28,8,100/3,,"13.3/20 ov, T:97"
+14024,100710,papua-new-guinea-vs-scotland-5th-match-first-round-group-b,"5th Match, First Round Group B",day,2021-10-19,15:30:00,RESULT,Scotland won by 17 runs,30,30,1,3389,30,20,148,,"19.3/20 ov, T:166"
+14024,100711,oman-vs-bangladesh-6th-match-first-round-group-b,"6th Match, First Round Group B",night,2021-10-19,19:30:00,RESULT,Bangladesh won by 26 runs,25,25,1,3389,25,37,127/9,,"20 ov, T:154"
+14024,100712,namibia-vs-netherlands-7th-match-first-round-group-a,"7th Match, First Round Group A",day,2021-10-20,15:30:00,RESULT,Namibia won by 6 wickets (with 6 balls remaining),28,28,2,1965,15,28,166/4,,"19/20 ov, T:165"
+14024,100713,ireland-vs-sri-lanka-8th-match-first-round-group-a,"8th Match, First Round Group A",night,2021-10-20,19:30:00,RESULT,Sri Lanka won by 70 runs,8,29,2,1965,8,29,101,,"18.3/20 ov, T:172"
+14024,100714,bangladesh-vs-papua-new-guinea-9th-match-first-round-group-b,"9th Match, First Round Group B",day,2021-10-21,15:30:00,RESULT,Bangladesh won by 84 runs,25,25,1,3389,25,20,97,,"19.3/20 ov, T:182"
+14024,100715,oman-vs-scotland-10th-match-first-round-group-b,"10th Match, First Round Group B",night,2021-10-21,19:30:00,RESULT,Scotland won by 8 wickets (with 18 balls remaining),30,37,1,3389,37,30,123/2,,"17/20 ov, T:123"
+14024,100716,ireland-vs-namibia-11th-match-first-round-group-a,"11th Match, First Round Group A",day,2021-10-22,15:30:00,RESULT,Namibia won by 8 wickets (with 9 balls remaining),28,29,1,848,29,28,126/2,,"18.3/20 ov, T:126"
+14024,100717,netherlands-vs-sri-lanka-12th-match-first-round-group-a,"12th Match, First Round Group A",night,2021-10-22,19:30:00,RESULT,Sri Lanka won by 8 wickets (with 77 balls remaining),8,8,2,848,15,8,45/2,,"7.1/20 ov, T:45"
+14024,100718,australia-vs-south-africa-13th-match-group-1,"13th Match, Group 1",day,2021-10-23,15:30:00,RESULT,Australia won by 5 wickets (with 2 balls remaining),2,2,2,1965,3,2,121/5,,"19.4/20 ov, T:119"
+14024,100719,england-vs-west-indies-14th-match-group-1,"14th Match, Group 1",night,2021-10-23,19:30:00,RESULT,England won by 6 wickets (with 70 balls remaining),1,1,2,2439,4,1,56/4,,"8.2/20 ov, T:56"
+14024,100720,bangladesh-vs-sri-lanka-15th-match-group-1,"15th Match, Group 1",day,2021-10-24,15:30:00,RESULT,Sri Lanka won by 5 wickets (with 7 balls remaining),8,8,2,848,25,8,172/5,,"18.5/20 ov, T:172"
+14024,100721,india-vs-pakistan-16th-match-group-2,"16th Match, Group 2",night,2021-10-24,19:30:00,RESULT,Pakistan won by 10 wickets (with 13 balls remaining),7,7,2,2439,6,7,152/0,,"17.5/20 ov, T:152"
+14024,100722,afghanistan-vs-scotland-17th-match-group-2,"17th Match, Group 2",night,2021-10-25,19:30:00,RESULT,Afghanistan won by 130 runs,40,40,1,848,40,30,60,,"10.2/20 ov, T:191"
+14024,100723,south-africa-vs-west-indies-18th-match-group-1,"18th Match, Group 1",day,2021-10-26,15:30:00,RESULT,South Africa won by 8 wickets (with 10 balls remaining),3,3,2,2439,4,3,144/2,,"18.2/20 ov, T:144"
+14024,100724,new-zealand-vs-pakistan-19th-match-group-2,"19th Match, Group 2",night,2021-10-26,19:30:00,RESULT,Pakistan won by 5 wickets (with 8 balls remaining),7,7,2,848,5,7,135/5,,"18.4/20 ov, T:135"
+14024,100725,bangladesh-vs-england-20th-match-group-1,"20th Match, Group 1",day,2021-10-27,15:30:00,RESULT,England won by 8 wickets (with 35 balls remaining),1,25,1,1965,25,1,126/2,,"14.1/20 ov, T:125"
+14024,100726,namibia-vs-scotland-21st-match-group-2,"21st Match, Group 2",night,2021-10-27,19:30:00,RESULT,Namibia won by 4 wickets (with 5 balls remaining),28,28,2,1965,30,28,115/6,,"19.1/20 ov, T:110"
+14024,100727,australia-vs-sri-lanka-22nd-match-group-1,"22nd Match, Group 1",day,2021-10-28,15:30:00,RESULT,Australia won by 7 wickets (with 18 balls remaining),2,2,2,2439,8,2,155/3,,"17/20 ov, T:155"
+14024,100728,bangladesh-vs-west-indies-23rd-match-group-1,"23rd Match, Group 1",day,2021-10-29,15:30:00,RESULT,West Indies won by 3 runs,4,25,2,848,4,25,139/5,,"20 ov, T:143"
+14024,100729,afghanistan-vs-pakistan-24th-match-group-2,"24th Match, Group 2",night,2021-10-29,19:30:00,RESULT,Pakistan won by 5 wickets (with 6 balls remaining),7,40,1,2439,40,7,148/5,,"19/20 ov, T:148"
+14024,100730,south-africa-vs-sri-lanka-25th-match-group-1,"25th Match, Group 1",day,2021-10-30,15:30:00,RESULT,South Africa won by 4 wickets (with 1 ball remaining),3,3,2,848,8,3,146/6,,"19.5/20 ov, T:143"
+14024,100731,australia-vs-england-26th-match-group-1,"26th Match, Group 1",night,2021-10-30,19:30:00,RESULT,England won by 8 wickets (with 50 balls remaining),1,1,2,2439,2,1,126/2,,"11.4/20 ov, T:126"
+14024,100732,afghanistan-vs-namibia-27th-match-group-2,"27th Match, Group 2",day,2021-10-31,15:30:00,RESULT,Afghanistan won by 62 runs,40,40,1,1965,40,28,98/9,,"20 ov, T:161"
+14024,100733,india-vs-new-zealand-28th-match-group-2,"28th Match, Group 2",night,2021-10-31,19:30:00,RESULT,New Zealand won by 8 wickets (with 33 balls remaining),5,5,2,2439,6,5,111/2,,"14.3/20 ov, T:111"
+14024,100734,england-vs-sri-lanka-29th-match-group-1,"29th Match, Group 1",night,2021-11-01,19:30:00,RESULT,England won by 26 runs,1,8,2,848,1,8,137,,"19/20 ov, T:164"
+14024,100735,bangladesh-vs-south-africa-30th-match-group-1,"30th Match, Group 1",day,2021-11-02,15:30:00,RESULT,South Africa won by 6 wickets (with 39 balls remaining),3,3,2,1965,25,3,86/4,,"13.3/20 ov, T:85"
+14024,100736,namibia-vs-pakistan-31st-match-group-2,"31st Match, Group 2",night,2021-11-02,19:30:00,RESULT,Pakistan won by 45 runs,7,7,1,1965,7,28,144/5,,"20 ov, T:190"
+14024,100737,new-zealand-vs-scotland-32nd-match-group-2,"32nd Match, Group 2",day,2021-11-03,15:30:00,RESULT,New Zealand won by 16 runs,5,30,2,2439,5,30,156/5,,"20 ov, T:173"
+14024,100738,afghanistan-vs-india-33rd-match-group-2,"33rd Match, Group 2",night,2021-11-03,19:30:00,RESULT,India won by 66 runs,6,40,2,1965,6,40,144/7,,"20 ov, T:211"
+14024,100739,australia-vs-bangladesh-34th-match-group-1,"34th Match, Group 1",day,2021-11-04,15:30:00,RESULT,Australia won by 8 wickets (with 82 balls remaining),2,2,2,2439,25,2,78/2,,"6.2/20 ov, T:74"
+14024,100740,sri-lanka-vs-west-indies-35th-match-group-1,"35th Match, Group 1",night,2021-11-04,19:30:00,RESULT,Sri Lanka won by 20 runs,8,4,2,1965,8,4,169/8,,"20 ov, T:190"
+14024,100741,namibia-vs-new-zealand-36th-match-group-2,"36th Match, Group 2",day,2021-11-05,15:30:00,RESULT,New Zealand won by 52 runs,5,28,2,848,5,28,111/7,,"20 ov, T:164"
+14024,100742,india-vs-scotland-37th-match-group-2,"37th Match, Group 2",night,2021-11-05,19:30:00,RESULT,India won by 8 wickets (with 81 balls remaining),6,6,2,2439,30,6,89/2,,"6.3/20 ov, T:86"
+14024,100743,australia-vs-west-indies-38th-match-group-1,"38th Match, Group 1",day,2021-11-06,15:30:00,RESULT,Australia won by 8 wickets (with 22 balls remaining),2,2,2,1965,4,2,161/2,,"16.2/20 ov, T:158"
+14024,100744,england-vs-south-africa-39th-match-group-1,"39th Match, Group 1",night,2021-11-06,19:30:00,RESULT,South Africa won by 10 runs,3,1,2,848,3,1,179/8,,"20 ov, T:190"
+14024,100745,afghanistan-vs-new-zealand-40th-match-group-2,"40th Match, Group 2",day,2021-11-07,15:30:00,RESULT,New Zealand won by 8 wickets (with 11 balls remaining),5,40,1,1965,40,5,125/2,,"18.1/20 ov, T:125"
+14024,100746,pakistan-vs-scotland-41st-match-group-2,"41st Match, Group 2",night,2021-11-07,19:30:00,RESULT,Pakistan won by 72 runs,7,7,1,848,7,30,117/6,,"20 ov, T:190"
+14024,100747,india-vs-namibia-42nd-match-group-2,"42nd Match, Group 2",night,2021-11-08,19:30:00,RESULT,India won by 9 wickets (with 28 balls remaining),6,6,2,2439,28,6,136/1,,"15.2/20 ov, T:133"
+14024,100748,england-vs-new-zealand-1st-semi-final,1st Semi-Final,night,2021-11-10,19:30:00,RESULT,New Zealand won by 5 wickets (with 6 balls remaining),5,5,2,1965,1,5,167/5,,"19/20 ov, T:167"
+14024,100749,australia-vs-pakistan-2nd-semi-final,2nd Semi-Final,night,2021-11-11,19:30:00,RESULT,Australia won by 5 wickets (with 6 balls remaining),2,2,2,2439,7,2,177/5,,"19/20 ov, T:177"
+14024,100750,australia-vs-new-zealand-final,Final,night,2021-11-14,19:30:00,RESULT,Australia won by 8 wickets (with 7 balls remaining),2,2,2,2439,5,2,173/2,,"18.5/20 ov, T:173"
+14450,103203,namibia-vs-sri-lanka-1st-match-first-round-group-a,"1st Match, First Round Group A",daynight,2022-10-16,09:30:00,RESULT,Namibia won by 55 runs,28,8,2,564,28,8,108,,"19/20 ov, T:164"
+14450,103204,netherlands-vs-united-arab-emirates-2nd-match-first-round-group-a,"2nd Match, First Round Group A",night,2022-10-16,13:30:00,RESULT,Netherlands won by 3 wickets (with 1 ball remaining),15,27,1,564,27,15,112/7,,"19.5/20 ov, T:112"
+14450,103205,scotland-vs-west-indies-3rd-match-first-round-group-b,"3rd Match, First Round Group B",daynight,2022-10-17,09:30:00,RESULT,Scotland won by 42 runs,30,4,2,905,30,4,118,,"18.3/20 ov, T:161"
+14450,103206,ireland-vs-zimbabwe-4th-match-first-round-group-b,"4th Match, First Round Group B",night,2022-10-17,13:30:00,RESULT,Zimbabwe won by 31 runs,9,29,2,905,9,29,143/9,,"20 ov, T:175"
+14450,103207,namibia-vs-netherlands-5th-match-first-round-group-a,"5th Match, First Round Group A",daynight,2022-10-18,09:30:00,RESULT,Netherlands won by 5 wickets (with 3 balls remaining),15,28,1,564,28,15,122/5,,"19.3/20 ov, T:122"
+14450,103208,sri-lanka-vs-united-arab-emirates-6th-match-first-round-group-a,"6th Match, First Round Group A",night,2022-10-18,13:30:00,RESULT,Sri Lanka won by 79 runs,8,27,2,564,8,27,73,,"17.1/20 ov, T:153"
+14450,103209,ireland-vs-scotland-7th-match-first-round-group-b,"7th Match, First Round Group B",daynight,2022-10-19,09:30:00,RESULT,Ireland won by 6 wickets (with 6 balls remaining),29,30,1,905,30,29,180/4,,"19/20 ov, T:177"
+14450,103210,west-indies-vs-zimbabwe-8th-match-first-round-group-b,"8th Match, First Round Group B",night,2022-10-19,13:30:00,RESULT,West Indies won by 31 runs,4,4,1,905,4,9,122,,"18.2/20 ov, T:154"
+14450,103211,netherlands-vs-sri-lanka-9th-match-first-round-group-a,"9th Match, First Round Group A",daynight,2022-10-20,09:30:00,RESULT,Sri Lanka won by 16 runs,8,8,1,564,8,15,146/9,,"20 ov, T:163"
+14450,103212,namibia-vs-united-arab-emirates-10th-match-first-round-group-a,"10th Match, First Round Group A",night,2022-10-20,13:30:00,RESULT,U.A.E. won by 7 runs,27,27,1,564,27,28,141/8,,"20 ov, T:149"
+14450,103213,ireland-vs-west-indies-11th-match-first-round-group-b,"11th Match, First Round Group B",daynight,2022-10-21,09:30:00,RESULT,Ireland won by 9 wickets (with 15 balls remaining),29,4,1,905,4,29,150/1,,"17.3/20 ov, T:147"
+14450,103214,scotland-vs-zimbabwe-12th-match-first-round-group-b,"12th Match, First Round Group B",night,2022-10-21,13:30:00,RESULT,Zimbabwe won by 5 wickets (with 9 balls remaining),9,30,1,905,30,9,133/5,,"18.3/20 ov, T:133"
+14450,103215,australia-vs-new-zealand-13th-match-group-1,"13th Match, Group 1",night,2022-10-22,12:30:00,RESULT,New Zealand won by 89 runs,5,2,2,132,5,2,111,,"17.1/20 ov, T:201"
+14450,103216,afghanistan-vs-england-14th-match-group-1,"14th Match, Group 1",night,2022-10-22,16:30:00,RESULT,England won by 5 wickets (with 11 balls remaining),1,1,2,3404,40,1,113/5,,"18.1/20 ov, T:113"
+14450,103217,ireland-vs-sri-lanka-15th-match-group-1,"15th Match, Group 1",daynight,2022-10-23,09:30:00,RESULT,Sri Lanka won by 9 wickets (with 30 balls remaining),8,29,1,905,29,8,133/1,,"15/20 ov, T:129"
+14450,103218,india-vs-pakistan-16th-match-group-2,"16th Match, Group 2",night,2022-10-23,13:30:00,RESULT,India won by 4 wickets (with 0 balls remaining),6,6,2,61,7,6,160/6,,"20 ov, T:160"
+14450,103219,bangladesh-vs-netherlands-17th-match-group-2,"17th Match, Group 2",daynight,2022-10-24,09:30:00,RESULT,Bangladesh won by 9 runs,25,15,2,905,25,15,135,,"20 ov, T:145"
+14450,103220,south-africa-vs-zimbabwe-18th-match-group-2,"18th Match, Group 2",night,2022-10-24,13:30:00,NO RESULT,No result,,9,1,905,9,3,51/0,9/9 ov,"3/7 ov, T:64"
+14450,103221,australia-vs-sri-lanka-19th-match-group-1,"19th Match, Group 1",night,2022-10-25,16:30:00,RESULT,Australia won by 7 wickets (with 21 balls remaining),2,2,2,3404,8,2,158/3,,"16.3/20 ov, T:158"
+14450,103222,england-vs-ireland-20th-match-group-1,"20th Match, Group 1",daynight,2022-10-26,09:30:00,RESULT,Ireland won by 5 runs (DLS method),29,1,2,61,29,1,105/5,,"14.3/14.3 ov, T:111"
+14450,103223,afghanistan-vs-new-zealand-21st-match-group-1,"21st Match, Group 1",night,2022-10-26,13:30:00,ABANDONED,Match abandoned without a ball bowled,,,,61,40,5,,,
+14450,103224,bangladesh-vs-south-africa-22nd-match-group-2,"22nd Match, Group 2",daynight,2022-10-27,08:30:00,RESULT,South Africa won by 104 runs,3,3,1,132,3,25,101,,"16.3/20 ov, T:206"
+14450,103225,india-vs-netherlands-23rd-match-group-2,"23rd Match, Group 2",night,2022-10-27,12:30:00,RESULT,India won by 56 runs,6,6,1,132,6,15,123/9,,"20 ov, T:180"
+14450,103226,pakistan-vs-zimbabwe-24th-match-group-2,"24th Match, Group 2",night,2022-10-27,16:30:00,RESULT,Zimbabwe won by 1 run,9,9,1,3404,9,7,129/8,,"20 ov, T:131"
+14450,103227,afghanistan-vs-ireland-25th-match-group-1,"25th Match, Group 1",daynight,2022-10-28,09:30:00,ABANDONED,Match abandoned without a ball bowled,,,,61,40,29,,,
+14450,103228,australia-vs-england-26th-match-group-1,"26th Match, Group 1",night,2022-10-28,13:30:00,ABANDONED,Match abandoned without a ball bowled,,,,61,2,1,,,
+14450,103229,new-zealand-vs-sri-lanka-27th-match-group-1,"27th Match, Group 1",night,2022-10-29,13:30:00,RESULT,New Zealand won by 65 runs,5,5,1,132,5,8,102,,"19.2/20 ov, T:168"
+14450,103230,bangladesh-vs-zimbabwe-28th-match-group-2,"28th Match, Group 2",day,2022-10-30,08:30:00,RESULT,Bangladesh won by 3 runs,25,25,1,209,25,9,147/8,,"20 ov, T:151"
+14450,103231,netherlands-vs-pakistan-29th-match-group-2,"29th Match, Group 2",daynight,2022-10-30,12:30:00,RESULT,Pakistan won by 6 wickets (with 37 balls remaining),7,15,1,3404,15,7,95/4,,"13.5/20 ov, T:92"
+14450,103232,india-vs-south-africa-30th-match-group-2,"30th Match, Group 2",night,2022-10-30,16:30:00,RESULT,South Africa won by 5 wickets (with 2 balls remaining),3,6,1,3404,6,3,137/5,,"19.4/20 ov, T:134"
+14450,103233,australia-vs-ireland-31st-match-group-1,"31st Match, Group 1",night,2022-10-31,13:30:00,RESULT,Australia won by 42 runs,2,29,2,209,2,29,137,,"18.1/20 ov, T:180"
+14450,103234,afghanistan-vs-sri-lanka-32nd-match-group-1,"32nd Match, Group 1",day,2022-11-01,09:30:00,RESULT,Sri Lanka won by 6 wickets (with 9 balls remaining),8,40,1,209,40,8,148/4,,"18.3/20 ov, T:145"
+14450,103235,england-vs-new-zealand-33rd-match-group-1,"33rd Match, Group 1",night,2022-11-01,13:30:00,RESULT,England won by 20 runs,1,1,1,209,1,5,159/6,,"20 ov, T:180"
+14450,103236,netherlands-vs-zimbabwe-34th-match-group-2,"34th Match, Group 2",day,2022-11-02,09:30:00,RESULT,Netherlands won by 5 wickets (with 12 balls remaining),15,9,1,131,9,15,120/5,,"18/20 ov, T:118"
+14450,103237,bangladesh-vs-india-35th-match-group-2,"35th Match, Group 2",night,2022-11-02,13:30:00,RESULT,India won by 5 runs (DLS method),6,25,2,131,6,25,145/6,,"16/16 ov, T:151"
+14450,103238,pakistan-vs-south-africa-36th-match-group-2,"36th Match, Group 2",night,2022-11-03,13:30:00,RESULT,Pakistan won by 33 runs (DLS method),7,7,1,132,7,3,108/9,,"14/14 ov, T:142"
+14450,103239,ireland-vs-new-zealand-37th-match-group-1,"37th Match, Group 1",day,2022-11-04,09:30:00,RESULT,New Zealand won by 35 runs,5,29,2,131,5,29,150/9,,"20 ov, T:186"
+14450,103240,australia-vs-afghanistan-38th-match-group-1,"38th Match, Group 1",night,2022-11-04,13:30:00,RESULT,Australia won by 4 runs,2,40,2,131,2,40,164/7,,"20 ov, T:169"
+14450,103241,england-vs-sri-lanka-39th-match-group-1,"39th Match, Group 1",night,2022-11-05,13:30:00,RESULT,England won by 4 wickets (with 2 balls remaining),1,8,1,132,8,1,144/6,,"19.4/20 ov, T:142"
+14450,103242,netherlands-vs-south-africa-40th-match-group-2,"40th Match, Group 2",day,2022-11-06,05:30:00,RESULT,Netherlands won by 13 runs,15,3,2,131,15,3,145/8,,"20 ov, T:159"
+14450,103243,bangladesh-vs-pakistan-41st-match-group-2,"41st Match, Group 2",day,2022-11-06,09:30:00,RESULT,Pakistan won by 5 wickets (with 11 balls remaining),7,25,1,131,25,7,128/5,,"18.1/20 ov, T:128"
+14450,103244,india-vs-zimbabwe-42nd-match-group-2,"42nd Match, Group 2",night,2022-11-06,13:30:00,RESULT,India won by 71 runs,6,6,1,61,6,9,115,,"17.2/20 ov, T:187"
+14450,103245,new-zealand-vs-pakistan-1st-semi-final,1st Semi-Final,night,2022-11-09,13:30:00,RESULT,Pakistan won by 7 wickets (with 5 balls remaining),7,5,1,132,5,7,153/3,,"19.1/20 ov, T:153"
+14450,103246,england-vs-india-2nd-semi-final,2nd Semi-Final,night,2022-11-10,13:30:00,RESULT,England won by 10 wickets (with 24 balls remaining),1,1,2,131,6,1,170/0,,"16/20 ov, T:169"
+14450,103247,england-vs-pakistan-final,Final,night,2022-11-13,13:30:00,RESULT,England won by 5 wickets (with 6 balls remaining),1,1,2,61,7,1,138/5,,"19/20 ov, T:138"
+15946,113487,united-states-of-america-vs-canada-1st-match-group-a,"1st Match, Group A",night,2024-06-01,06:00:00,{{MATCH_START_TIME}},Match yet to begin,,,,3640,11,17,,,
+15946,113488,west-indies-vs-papua-new-guinea-2nd-match-group-c,"2nd Match, Group C",day,2024-06-02,20:00:00,{{MATCH_START_TIME}},Match yet to begin,,,,1986,4,20,,,
+15946,113489,namibia-vs-oman-3rd-match-group-b,"3rd Match, Group B",night,2024-06-02,06:00:00,{{MATCH_START_TIME}},Match yet to begin,,,,199,28,37,,,
+15946,113490,sri-lanka-vs-south-africa-4th-match-group-d,"4th Match, Group D",day,2024-06-03,20:00:00,{{MATCH_START_TIME}},Match yet to begin,,,,3662,8,3,,,
+15946,113491,afghanistan-vs-uganda-5th-match-group-c,"5th Match, Group C",night,2024-06-03,06:00:00,{{MATCH_START_TIME}},Match yet to begin,,,,1986,40,34,,,
+15946,113492,england-vs-scotland-6th-match-group-b,"6th Match, Group B",day,2024-06-04,20:00:00,{{MATCH_START_TIME}},Match yet to begin,,,,199,1,30,,,
+15946,113493,netherlands-vs-nepal-7th-match-group-d,"7th Match, Group D",day,2024-06-04,21:00:00,{{MATCH_START_TIME}},Match yet to begin,,,,3640,15,32,,,
+15946,113494,india-vs-ireland-8th-match-group-a,"8th Match, Group A",day,2024-06-05,19:30:00,{{MATCH_START_TIME}},Match yet to begin,,,,3662,6,29,,,
+15946,113495,papua-new-guinea-vs-uganda-9th-match-group-c,"9th Match, Group C",night,2024-06-05,05:00:00,{{MATCH_START_TIME}},Match yet to begin,,,,1986,20,34,,,
+15946,113496,australia-vs-oman-10th-match-group-b,"10th Match, Group B",night,2024-06-05,06:00:00,{{MATCH_START_TIME}},Match yet to begin,,,,199,2,37,,,
+15946,113497,united-states-of-america-vs-pakistan-11th-match-group-a,"11th Match, Group A",day,2024-06-06,21:00:00,{{MATCH_START_TIME}},Match yet to begin,,,,3640,11,7,,,
+15946,113498,namibia-vs-scotland-12th-match-group-b,"12th Match, Group B",day,2024-06-06,00:30:00,{{MATCH_START_TIME}},Match yet to begin,,,,199,28,30,,,
+15946,113499,canada-vs-ireland-13th-match-group-a,"13th Match, Group A",day,2024-06-07,20:00:00,{{MATCH_START_TIME}},Match yet to begin,,,,3662,17,29,,,
+15946,113500,afghanistan-vs-new-zealand-14th-match-group-c,"14th Match, Group C",night,2024-06-07,05:00:00,{{MATCH_START_TIME}},Match yet to begin,,,,1986,40,5,,,
+15946,113501,bangladesh-vs-sri-lanka-15th-match-group-d,"15th Match, Group D",night,2024-06-07,06:00:00,{{MATCH_START_TIME}},Match yet to begin,,,,3640,25,8,,,
+15946,113502,netherlands-vs-south-africa-16th-match-group-d,"16th Match, Group D",day,2024-06-08,20:00:00,{{MATCH_START_TIME}},Match yet to begin,,,,3662,15,3,,,
+15946,113503,australia-vs-england-17th-match-group-b,"17th Match, Group B",day,2024-06-08,22:30:00,{{MATCH_START_TIME}},Match yet to begin,,,,199,2,1,,,
+15946,113504,west-indies-vs-uganda-18th-match-group-c,"18th Match, Group C",night,2024-06-08,06:00:00,{{MATCH_START_TIME}},Match yet to begin,,,,1986,4,34,,,
+15946,113505,india-vs-pakistan-19th-match-group-a,"19th Match, Group A",day,2024-06-09,20:00:00,{{MATCH_START_TIME}},Match yet to begin,,,,3662,6,7,,,
+15946,113506,oman-vs-scotland-20th-match-group-b,"20th Match, Group B",day,2024-06-09,22:30:00,{{MATCH_START_TIME}},Match yet to begin,,,,1985,37,30,,,
+15946,113507,bangladesh-vs-south-africa-21st-match-group-d,"21st Match, Group D",day,2024-06-10,20:00:00,{{MATCH_START_TIME}},Match yet to begin,,,,3662,25,3,,,
+15946,113508,canada-vs-pakistan-22nd-match-group-a,"22nd Match, Group A",day,2024-06-11,20:00:00,{{MATCH_START_TIME}},Match yet to begin,,,,3662,17,7,,,
+15946,113509,nepal-vs-sri-lanka-23rd-match-group-d,"23rd Match, Group D",night,2024-06-11,05:00:00,{{MATCH_START_TIME}},Match yet to begin,,,,2405,32,8,,,
+15946,113510,australia-vs-namibia-24th-match-group-b,"24th Match, Group B",night,2024-06-11,06:00:00,{{MATCH_START_TIME}},Match yet to begin,,,,1985,2,28,,,
+15946,113511,united-states-of-america-vs-india-25th-match-group-a,"25th Match, Group A",day,2024-06-12,20:00:00,{{MATCH_START_TIME}},Match yet to begin,,,,3662,11,6,,,
+15946,113512,west-indies-vs-new-zealand-26th-match-group-c,"26th Match, Group C",night,2024-06-12,06:00:00,{{MATCH_START_TIME}},Match yet to begin,,,,2041,4,5,,,
+15946,113513,bangladesh-vs-netherlands-27th-match-group-b,"27th Match, Group B",day,2024-06-13,20:00:00,{{MATCH_START_TIME}},Match yet to begin,,,,680,25,15,,,
+15946,113514,england-vs-oman-28th-match-group-d,"28th Match, Group D",day,2024-06-13,00:30:00,{{MATCH_START_TIME}},Match yet to begin,,,,1985,1,37,,,
+15946,113515,afghanistan-vs-papua-new-guinea-29th-match-group-c,"29th Match, Group C",night,2024-06-13,06:00:00,{{MATCH_START_TIME}},Match yet to begin,,,,2041,40,20,,,
+15946,113516,united-states-of-america-vs-ireland-30th-match-group-a,"30th Match, Group A",day,2024-06-14,20:00:00,{{MATCH_START_TIME}},Match yet to begin,,,,2405,11,29,,,
+15946,113517,nepal-vs-south-africa-31st-match-group-d,"31st Match, Group D",night,2024-06-14,05:00:00,{{MATCH_START_TIME}},Match yet to begin,,,,680,32,3,,,
+15946,113518,new-zealand-vs-uganda-32nd-match-group-c,"32nd Match, Group C",night,2024-06-14,06:00:00,{{MATCH_START_TIME}},Match yet to begin,,,,2041,5,34,,,
+15946,113519,canada-vs-india-33rd-match-group-a,"33rd Match, Group A",day,2024-06-15,20:00:00,{{MATCH_START_TIME}},Match yet to begin,,,,2405,17,6,,,
+15946,113520,england-vs-namibia-34th-match-group-b,"34th Match, Group B",day,2024-06-15,22:30:00,{{MATCH_START_TIME}},Match yet to begin,,,,1985,1,28,,,
+15946,113521,australia-vs-scotland-35th-match-group-b,"35th Match, Group B",night,2024-06-15,06:00:00,{{MATCH_START_TIME}},Match yet to begin,,,,1697,2,30,,,
+15946,113522,ireland-vs-pakistan-36th-match-group-a,"36th Match, Group A",day,2024-06-16,20:00:00,{{MATCH_START_TIME}},Match yet to begin,,,,2405,29,7,,,
+15946,113523,bangladesh-vs-nepal-37th-match-group-d,"37th Match, Group D",night,2024-06-16,05:00:00,{{MATCH_START_TIME}},Match yet to begin,,,,680,25,32,,,
+15946,113524,netherlands-vs-sri-lanka-38th-match-group-d,"38th Match, Group D",night,2024-06-16,06:00:00,{{MATCH_START_TIME}},Match yet to begin,,,,1697,15,8,,,
+15946,113525,new-zealand-vs-papua-new-guinea-39th-match-group-c,"39th Match, Group C",day,2024-06-17,20:00:00,{{MATCH_START_TIME}},Match yet to begin,,,,2041,5,20,,,
+15946,113526,west-indies-vs-afghanistan-40th-match-group-c,"40th Match, Group C",night,2024-06-17,06:00:00,{{MATCH_START_TIME}},Match yet to begin,,,,1697,4,40,,,
+15946,113527,tba-vs-tba-41st-match-super-eights-group-2,"41st Match, Super Eights, Group 2",day,2024-06-19,20:00:00,{{MATCH_START_TIME}},Match yet to begin,,,,1985,0,0,,,
+15946,113528,tba-vs-tba-42nd-match-super-eights-group-2,"42nd Match, Super Eights, Group 2",night,2024-06-19,06:00:00,{{MATCH_START_TIME}},Match yet to begin,,,,1697,0,0,,,
+15946,113529,tba-vs-tba-43rd-match-super-eights-group-1,"43rd Match, Super Eights, Group 1",day,2024-06-20,20:00:00,{{MATCH_START_TIME}},Match yet to begin,,,,199,0,0,,,
+15946,113530,tba-vs-tba-44th-match-super-eights-group-1,"44th Match, Super Eights, Group 1",night,2024-06-20,06:00:00,{{MATCH_START_TIME}},Match yet to begin,,,,1985,0,0,,,
+15946,113531,tba-vs-tba-45th-match-super-eights-group-2,"45th Match, Super Eights, Group 2",day,2024-06-21,20:00:00,{{MATCH_START_TIME}},Match yet to begin,,,,1697,0,0,,,
+15946,113532,tba-vs-tba-46th-match-super-eights-group-2,"46th Match, Super Eights, Group 2",night,2024-06-21,06:00:00,{{MATCH_START_TIME}},Match yet to begin,,,,199,0,0,,,
+15946,113533,tba-vs-tba-47th-match-super-eights-group-1,"47th Match, Super Eights,Group 1",day,2024-06-22,20:00:00,{{MATCH_START_TIME}},Match yet to begin,,,,1985,0,0,,,
+15946,113534,tba-vs-tba-48th-match-super-eights-group-1,"48th Match, Super Eights, Group 1",night,2024-06-22,06:00:00,{{MATCH_START_TIME}},Match yet to begin,,,,680,0,0,,,
+15946,113535,tba-vs-tba-49th-match-super-eights-group-2,"49th Match, Super Eights, Group 2",day,2024-06-23,20:00:00,{{MATCH_START_TIME}},Match yet to begin,,,,199,0,0,,,
+15946,113536,tba-vs-tba-50th-match-super-eights-group-2,"50th Match, Super Eights, Group 2",night,2024-06-23,06:00:00,{{MATCH_START_TIME}},Match yet to begin,,,,1985,0,0,,,
+15946,113537,tba-vs-tba-51st-match-super-eights-group-1,"51st Match, Super Eights, Group 1",day,2024-06-24,20:00:00,{{MATCH_START_TIME}},Match yet to begin,,,,1697,0,0,,,
+15946,113538,tba-vs-tba-52nd-match-super-eights-group-1,"52nd Match, Super Eights, Group 1",night,2024-06-24,06:00:00,{{MATCH_START_TIME}},Match yet to begin,,,,680,0,0,,,
+15946,113539,tba-vs-tba-1st-semi-final,1st Semi-Final,night,2024-06-26,06:00:00,{{MATCH_START_TIME}},Match yet to begin,,,,2041,0,0,,,
+15946,113540,tba-vs-tba-2nd-semi-final,2nd Semi-Final,day,2024-06-27,20:00:00,{{MATCH_START_TIME}},Match yet to begin,,,,1986,0,0,,,
+15946,113541,tba-vs-tba-final,Final,day,2024-06-29,19:30:00,{{MATCH_START_TIME}},Match yet to begin,,,,199,0,0,,,
